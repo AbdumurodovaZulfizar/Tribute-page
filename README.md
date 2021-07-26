@@ -44,4 +44,9 @@ Give a ⭐️ if you like this project!
 
 - [Microverse](https://www.microverse.org/) for international opportunities.
 - [Microverse](https://www.microverse.org/) for their `README` [template](https://github.com/microverseinc/readme-template).
+
+## 📝 License
+
+Copyright 2021 Zulfizar Abdumurodova
+- [License](https://docs.google.com/document/d/1HjAQWTxqQMqipmBqn1mBq5bdqntuSvXa/edit) for this project.
 ​
