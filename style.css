@@ -1,88 +1,109 @@
-body{
-  background-repeat:repeat-y;
+body {
+  background-repeat: repeat-y;
   background-size: cover;
   background-size: 100%;
   background-color: blueviolet;
-  
+
 }
 
 #image {
   max-width: 100%;
   display: block;
   align-self: center;
-  width:800px;
+  width: 800px;
   height: 600px;
-  align:center;
-  margin-left:75px;
+  align: center;
+  margin-left: 75px;
 
 
 }
-img{
+
+img {
   height: auto;
 }
 
 main {
   align-items: center;
   align-self: center;
-  align:center;
+  align: center;
   margin-left: 90px;
-  
+
   width: 70%;
   height: 90%;
   margin-left: 180px;
   margin-right: 180px;
   padding: 10px;
 }
-div, h2,h5,img ,{
+
+div,
+h2,
+h5,
+img,
+  {
   align-self: center;
   align-items: center;
   text-align: center;
 }
-body{
+
+body {
   align-items: center;
   text-align: center;
 }
+
 #img-div {
-  align:center;
-  width:100%;
+  align: center;
+  width: 100%;
   height: fit-content;
 }
-img{
-  align:center;
+
+img {
+  align: center;
 }
-p{
+
+p {
   text-align: left;
 }
-#one,#tribute-info ,#img-caption {
-  text-align:center
+
+#one,
+#tribute-info,
+#img-caption {
+  text-align: center
 }
-footer{
-  text-align:left;
-  background-color:mediumpurple;
-  width:100%;
+
+footer {
+  text-align: left;
+  background-color: mediumpurple;
+  width: 100%;
 }
-#footer-header{
+
+#footer-header {
   text-align: center;
   font-size: 25px;
   font-weight: bold;
 }
-p,h2{
+
+p,
+h2 {
   text-decoration: black;
   font-weight: 700;
   font-style: oblique;
-  font-family:  Arial, sans-serif;
+  font-family: Arial, sans-serif;
 
 }
-h2{
-  font-size:35px ;
+
+h2 {
+  font-size: 35px;
 }
-a{
+
+a {
   font-size: 15px;
   color: darkslateblue;
 }
-a:hover{
-  color:indigo;
+
+a:hover {
+  color: indigo;
 }
-#team-info{
+
+#team-info {
   box-shadow: 1px 1px purple;
 }
